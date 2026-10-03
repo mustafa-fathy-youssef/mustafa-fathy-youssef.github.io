@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Download my full CV (PDF)](/files/Mustafa_Fathy_CV.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+**B.Sc. in Microbiology** — Al-Azhar University, Assiut  
+*May 2026 session | Cumulative: 77.96% (Very Good)*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Projects
+- **HDAFA: Hyper-Deterministic Atomic Agentic Architecture** (Sept 2026–Present) — Independent Researcher
+- **Automated Bioreactor Master Controller (SystemUnite4)** (2025–2026) — Arduino Mega firmware
+- **ESP32 Safety-Critical Bio-Incubator Controller** (2025–2026) — ESP32 firmware
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Publications
+Youssef, M. F. A. (2026). HDAFA: A Hyper-Deterministic Atomic Agentic Architecture for Verifiable Code Generation. *Preprints.org*.  
+[DOI: 10.5281/ZENODO.22700296](https://doi.org/10.5281/ZENODO.22700296)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching Experience
+- **Volunteer Science Educator** — Al-Matar Official Primary School (Feb–May 2026)
+- **Private Science Teacher (Primary)** — Alexandria (2 years)
+- **Private English & STEM Tutor** — Alexandria (2026–Present)
+
+## Technical Skills
+Python • C++ • Arduino • ESP32 • Telegram Bot API • Web Scraping • Pandas • Git • Google Gemini API • Kivy/KivyMD • FreeRTOS basics
+
+## Certifications
+- **Teaching Secondary Science** — OpenLearn (Oct 2026)
+- **Assessment in Secondary Science** — OpenLearn (Oct 2026)
+- **Python (Basic)** — HackerRank (May 2026)
+- **PCB Design Essentials** — ITI / Mahara-Tech (Nov 2025)
