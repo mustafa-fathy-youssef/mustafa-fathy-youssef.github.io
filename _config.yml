@@ -23,7 +23,7 @@ repository               : "mustafa-fathy-youssef/mustafa-fathy-youssef.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mustafa Fathy Abdeltawab Youssef"
   pronouns         : "he/him"
   bio              : "Python developer & researcher — automation, web scraping, and embedded systems."
